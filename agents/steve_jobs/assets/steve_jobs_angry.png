@@ -1,0 +1,21 @@
+
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+        <defs>
+          <radialGradient id="grad-angry" cx="50%" cy="50%" r="50%">
+            <stop offset="0%" stop-color="#38bdf8"/>
+            <stop offset="100%" stop-color="#0369a1"/>
+          </radialGradient>
+        </defs>
+        <rect width="200" height="200" fill="url(#grad-angry)"/>
+        <path d="M 45 65 Q 100 10 155 65 Z" fill="#f59e0b"/>
+        <circle cx="100" cy="85" r="44" fill="#fed7aa"/>
+        <circle cx="80" cy="80" r="13" fill="none" stroke="#0f172a" stroke-width="3"/>
+        <circle cx="120" cy="80" r="13" fill="none" stroke="#0f172a" stroke-width="3"/>
+        <circle cx="80" cy="80" r="4.5" fill="#0f172a"/>
+        <circle cx="120" cy="80" r="4.5" fill="#0f172a"/>
+        <circle cx="78" cy="78" r="1.5" fill="#ffffff"/>
+        <circle cx="118" cy="78" r="1.5" fill="#ffffff"/>
+        <path d="M 40 200 Q 100 135 160 200 Z" fill="#1e3a8a"/>
+        <path d="M 85 115 L 115 115" fill="none" stroke="#0f172a" stroke-width="3.5" stroke-linecap="round"/>
+        <text x="100" y="165" font-size="42" text-anchor="middle">😤</text>
+      </svg>
